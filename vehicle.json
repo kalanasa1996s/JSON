@@ -1,0 +1,12 @@
+{
+    "brand": "Honda",
+    "model": "Fit GP5",
+    "year": 2015,
+    "engine": { "type": "V-6", "capacity": "3400cc" },
+    "features": ["Alloy Wheel", "Sunroof", "navigation"],
+    "colour": "gray",
+    "price": 7000,
+    "sold": true,
+    "image": "car.jpg"
+
+}
